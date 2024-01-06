@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\acer\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\acer\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\acer\source\repos\Project\Project\bin\Debug\Project.xml
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.Resources.resources
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.xml
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.frm_data.resources
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.frm_layout.resources
+C:\Users\acer\source\repos\Project\Project\obj\Debug\Project.frm_form.resources

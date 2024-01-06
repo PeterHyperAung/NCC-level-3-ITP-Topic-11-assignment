@@ -1,0 +1,4 @@
+1. hyper  80 
+2. helo  90 
+3. hyper gyi 150 
+
